@@ -1,0 +1,6 @@
+def luassegi3 (alas, tinggi):
+  luas = (alas*tinggi)/2
+  print ("luas segitiga = ", luas)
+
+luassegi3 (3, 7)
+luassegi3 (12, 25)
