@@ -1,0 +1,9 @@
+nama = "muhammad affry"
+alamat = """perunas
+gandasuli
+brebes"""
+hobi = "bermain komputer"
+
+print (nama)
+print (alamat)
+print (hobi)
